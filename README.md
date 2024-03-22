@@ -10,6 +10,11 @@ Exemple d'utilisation de Docsify avec l'activation des plugins suivants :
 * docsify-progress
 * docsify-jx-toc
 
+## Test du serveur Docsify
+```
+yarn docs
+```
+
 ## Liens
 * [Docsify](https://docsify.js.org/)
 * [How to Write Good Documentation with Docsify](https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/)
